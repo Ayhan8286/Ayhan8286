@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayhan8286
-- 👀 I’m interested in python projects
-- 🌱 I’m currently learning numpy
-- 💞️ I’m looking to collaborate on python based projects that can use oppen ai
+- 👀 I’m interested in machine learning projects
+- 🌱 I’m currently learning computer vision 
+- 💞️ I’m looking to collaborate on machine learning based projects that can use oppen ai
 - 📫 How to reach me (https://www.linkedin.com/in/ayhan-mirza-276101254)
 
 <!---
